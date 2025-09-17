@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@antv/g2plot": "^2.4.34",
-    "vue": "^2.7.16"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@rsbuild/core": "^1.5.8",
