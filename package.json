@@ -1,0 +1,19 @@
+{
+  "name": "antvis/G2Plot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rsbuild build",
+    "dev": "rsbuild dev --open",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "@antv/g2plot": "^2.4.34",
+    "vue": "^2.7.16"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.5.8",
+    "@rsbuild/plugin-vue2": "^1.0.4"
+  }
+}
